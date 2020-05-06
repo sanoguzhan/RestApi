@@ -22,7 +22,7 @@ __Technologies Used__:
 
 __Setup__:
 ```bash
-docker-compose build
+docker-compose pull
 ```
 ---
 
