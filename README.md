@@ -17,7 +17,7 @@ __Technologies Used__:
 * Django / Django-REST-Framework
 * Docker / Docker-Compose
 * Test Driven Development
-
+* TravisCI (The continuous integration & continuous delivery platform)
 ---
 
 __Setup__:
